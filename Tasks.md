@@ -1,10 +1,10 @@
 #Tasks
 
-[ ] Nikhil: Do event popups. Make them html and mobile-friendly.
-[ ] Kanchan: Navbar and Schedule.
-[ ] Gangwar/ Aarushi: Sponsors and Header(Introduction) including countdown widget.
-[ ] Coordinators Section: Varnika
-[ ] Delete unnecessary sections.
+- [ ] Nikhil: Do event popups. Make them html and mobile-friendly.
+- [ ] Kanchan: Navbar and Schedule.
+- [ ] Gangwar/ Aarushi: Sponsors and Header(Introduction) including countdown widget.
+- [ ] Coordinators Section: Varnika
+- [ ] Delete unnecessary sections.
 
 ## Sections to be deleted.
 
@@ -19,6 +19,6 @@
 
 ## Next
 
-[ ] Gallery photos.
-[ ] Google Map.
-[ ] Contact form. 
+- [ ] Gallery photos.
+- [ ] Google Map.
+- [ ] Contact form. 
